@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+div {
+  margin: 10px 0px 10px 0px;
+}
+#error {
+  color: red;
+}
+#success {
+  color: green;
+}
